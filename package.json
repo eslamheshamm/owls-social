@@ -14,7 +14,6 @@
     "gatsby-plugin-sharp": "^3.2.1",
     "gatsby-source-filesystem": "^3.2.0",
     "gatsby-transformer-sharp": "^3.2.0",
-    "prop-types": "^15.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0"
@@ -28,7 +27,9 @@
     "tailwindcss": "^2.1.1"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "owls",
+    "social"
   ],
   "license": "0BSD",
   "scripts": {
